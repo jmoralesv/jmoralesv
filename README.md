@@ -47,6 +47,11 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Sony](https://img.shields.io/badge/Sony-black?style=for-the-badge&logo=sony&logoColor=white)
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jmoralesv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jmoralesv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoralesv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!---
 jmoralesv/jmoralesv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
