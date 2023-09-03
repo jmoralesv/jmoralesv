@@ -37,7 +37,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-8A2BE2?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-green?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 98](https://img.shields.io/badge/Windows%2095-black?style=for-the-badge&logo=windows98&logoColor=white)
+![Windows 98](https://img.shields.io/badge/Windows%2098-black?style=for-the-badge&logo=windows95&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20XP-green?style=for-the-badge&logo=windowsxp&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
