@@ -10,6 +10,21 @@
 ![Discord](https://img.shields.io/badge/jmoralesv03-white?logo=discord)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgemoralesvidal/) 
 
+## 📊 GitHub Stats:
+<!--
+![](https://github-readme-stats.vercel.app/api?username=jmoralesv&show_icons=true&count_private=true&hide_border=true&theme=default&bg_color=00000000)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jmoralesv&theme=default&hide_border=true&background=FFFFFF00)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoralesv&theme=default&hide_border=true&bg_color=00000000)
+-->
+
+<div align="center" sty>
+    <img src="https://github-readme-stats.vercel.app/api?username=jmoralesv&show_icons=true&count_private=true&hide_border=true&theme=default&bg_color=00000000" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoralesv&theme=default&hide_border=true&bg_color=00000000">
+</div>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmoralesv&theme=github&hide_border=true&bg_color=00000000"/>
+</div>
+
 ## My Tech Stack:
 ![.NET](https://img.shields.io/badge/.NET-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,11 +61,6 @@
 ![ThinkPad](https://img.shields.io/badge/ThinkPad-red?style=for-the-badge&logo=thinkpad&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Sony](https://img.shields.io/badge/Sony-black?style=for-the-badge&logo=sony&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jmoralesv&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jmoralesv&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmoralesv&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!---
 jmoralesv/jmoralesv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
